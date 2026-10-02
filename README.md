@@ -18,7 +18,7 @@ Build a comprehensive Social Media Intelligence Solution in Excel that consolida
 social data and delivers actionable insights to enhance content strategy, optimize platform 
 investments, and evaluate campaign success.
 
-This XL consisits Answer for Questions as Fallows :
+This XL consisits Answer for Questions as Fallows which i solved as intern data science student :
  Data Preprocessing and Cleaning
 ● Eliminate duplicate post entries 
 ● Standardize date and platform formats 
